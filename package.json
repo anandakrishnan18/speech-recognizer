@@ -1,0 +1,25 @@
+{
+  "name": "speech-recognizer",
+  "version": "1.0.0",
+  "description": "A library for easily transcribing speech. Convert speech to text in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anandakrishnan18/speech-recognizer.git"
+  },
+  "keywords": [
+    "speech-recognizer",
+    "speech",
+    "transcription",
+    "speech-to-text"
+  ],
+  "author": "Anandakrishnan Sreenath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anandakrishnan18/speech-recognizer/issues"
+  },
+  "homepage": "https://github.com/anandakrishnan18/speech-recognizer#readme"
+}
