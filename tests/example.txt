@@ -1,0 +1,4 @@
+The test.html file shows an example of how to use the speech-recognizer
+module in html. Please read the README file because it contains some 
+valuable information and instructions of using the speech-recognizer
+library. The index.js file contains the actuall code. 
