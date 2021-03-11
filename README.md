@@ -26,3 +26,8 @@ Sample Code:-
 </body>
 </html>
 ```
+
+Here the line of code ``` main.speechrecognition("output"); ``` calls the speech recognizer function from index.js and we basically add a div to contain the transcribed text which is output after transcribing.
+Inside the function , the first and the only parameter is the class of the div.
+
+If any queries or doubts regarding speech-recognizer JS library, ask me at stackoverflow - https://stackoverflow.com/users/15198272/anandakrishnan
