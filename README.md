@@ -1,6 +1,18 @@
 # speech-recognizer
 The speech-recognition library for javascript. Convert speech to text easily.
 
+Installation:
+
+First, make a package.json file:
+
+``` npm init ```
+
+Now, you can install this package using npm. Well you can also install the source from GitHub.
+
+``` npm install javascript-speech-recognizer-library --save ```
+
+NPM package: https://www.npmjs.com/package/javascript-speech-recognizer-library
+
 Sample Code:-
 
 ```
