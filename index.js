@@ -5,7 +5,7 @@
  *      Sorry, currently the speech-recognizer module seems to be working on Chrome browser only.
  *      So make sure that your website visitors are said to open your site on chrome only.
  *      Any improvements are welcomed. 
- *      There aren't any bugs found currently on this module, but if you found any or you think that any part of this module can be changed a new functionality could be added to this library, then feel free to contribute to this project at github:-
+ *      There aren't any bugs found currently on this module, but if you found any or you think that any part of this module can be changed or a new functionality could be added to this library, then feel free to contribute to this project at github:-
  *      "https://github.com/anandakrishnan18/speech-recognizer.git" 
  *   
  *      version: 1.0.0
